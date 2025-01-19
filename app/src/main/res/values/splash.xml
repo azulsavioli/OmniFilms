@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#326afd</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/popcornicon</item>
+        <item name="postSplashScreenTheme">@style/Theme.OmniFilms</item>
+    </style>
+</resources>
