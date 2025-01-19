@@ -26,7 +26,7 @@ Com uma interface intuitiva, é possível encontrar detalhes como título, ano d
 
 ## 🛠️ Tecnologias Utilizadas
 
-O Omni Films foi desenvolvido com foco em práticas modernas de desenvolvimento Android, utilizando:
+O Omni Films foi desenvolvido utilizando:
 - **Jetpack Compose:** Para a construção da interface de usuário declarativa e responsiva.
 - **Coroutines:** Para gerenciamento de threads assíncronas.
 - **Retrofit:** Para integração com a API OMDb.
@@ -35,6 +35,6 @@ O Omni Films foi desenvolvido com foco em práticas modernas de desenvolvimento 
 
 ## 🎯 Objetivos
 
-- Proporcionar uma experiência fluida e agradável para os usuários.
+- Proporcionar uma experiência bonita e agradável para os usuários.
 - Integrar boas práticas de arquitetura como MVVM e princípios do SOLID.
 - Garantir um design limpo e moderno com Jetpack Compose.
